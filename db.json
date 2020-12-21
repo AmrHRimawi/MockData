@@ -1,0 +1,70 @@
+{
+  "aqars": [
+    {
+      "id": 1,
+      "city": "RamAllah",
+      "regin": "alersal",
+      "size": 170,
+      "numOfRooms": 3,
+      "numOfBathrooms": 2,
+      "price": 90,
+      "hasPaking": true,
+      "hasElevator": true
+    },
+    {
+      "id": 2,
+      "city": "RamAllah",
+      "regin": "almanara",
+      "size": 160,
+      "numOfRooms": 2,
+      "numOfBathrooms": 2,
+      "price": 80,
+      "hasPaking": true,
+      "hasElevator": true
+    },
+    {
+      "id": 3,
+      "city": "RamAllah",
+      "regin": "alquds-st",
+      "size": 150,
+      "numOfRooms": 2,
+      "numOfBathrooms": 1,
+      "price": 70,
+      "hasPaking": false,
+      "hasElevator": true
+    },
+    {
+      "id": 4,
+      "city": "RamAllah",
+      "regin": "nablus-st",
+      "size": 165,
+      "numOfRooms": 3,
+      "numOfBathrooms": 2,
+      "price": 95,
+      "hasPaking": true,
+      "hasElevator": false
+    },
+    {
+      "id": 5,
+      "city": "AlBeera",
+      "regin": "alersal",
+      "size": 175,
+      "numOfRooms": 3,
+      "numOfBathrooms": 2,
+      "price": 90,
+      "hasPaking": true,
+      "hasElevator": true
+    },
+    {
+      "id": 6,
+      "city": "AlBeera",
+      "regin": "alersal",
+      "size": 180,
+      "numOfRooms": 3,
+      "numOfBathrooms": 2,
+      "price": 90,
+      "hasPaking": true,
+      "hasElevator": false
+    }
+  ]
+}

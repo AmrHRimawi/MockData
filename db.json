@@ -65,6 +65,39 @@
       "price": 90,
       "hasPaking": true,
       "hasElevator": false
+    },
+    {
+      "id": 7,
+      "city": "AlBeera",
+      "regin": "alersal",
+      "size": 210,
+      "numOfRooms": 3,
+      "numOfBathrooms": 2,
+      "price": 220,
+      "hasPaking": true,
+      "hasElevator": false
+    },
+    {
+      "id": 8,
+      "city": "AlBeera",
+      "regin": "alersal",
+      "size": 180,
+      "numOfRooms": 3,
+      "numOfBathrooms": 3,
+      "price": 110,
+      "hasPaking": true,
+      "hasElevator": false
+    },
+    {
+      "id": 9,
+      "city": "AlBeera",
+      "regin": "alersal",
+      "size": 90,
+      "numOfRooms": 2,
+      "numOfBathrooms": 1,
+      "price": 85,
+      "hasPaking": true,
+      "hasElevator": false
     }
   ]
 }

@@ -10,8 +10,8 @@
       "price": 90,
       "hasPaking": true,
       "hasElevator": true,
-      "latitude": 31.898043,
-      "Longitude": 35.204269
+      "latitude": 31.892242166894196,
+      "Longitude": 35.20333741116664
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "price": 80,
       "hasPaking": true,
       "hasElevator": true,
-      "latitude": 31.897043,
-      "Longitude": 35.207269
+      "latitude": 31.892594688567243,
+      "Longitude": 35.20314942011074
     },
     {
       "id": 3,
@@ -36,8 +36,8 @@
       "price": 70,
       "hasPaking": false,
       "hasElevator": true,
-      "latitude": 31.894043,
-      "Longitude": 35.203269
+      "latitude": 31.895862549049536,
+      "Longitude": 35.20520260812702
     },
     {
       "id": 4,
@@ -49,8 +49,8 @@
       "price": 95,
       "hasPaking": true,
       "hasElevator": false,
-      "latitude": 31.892043,
-      "Longitude": 35.202269
+      "latitude": 31.90492516632254,
+      "Longitude": 35.20444218631508
     },
     {
       "id": 5,
